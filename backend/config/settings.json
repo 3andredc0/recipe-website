@@ -1,0 +1,13 @@
+{
+    "server": {
+        "port": 3000
+    },
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "database": "recipewebsite",
+        "password": "Donniedarko2005",
+        "port":3306,
+        "connectionLimit": 20
+    }
+}
