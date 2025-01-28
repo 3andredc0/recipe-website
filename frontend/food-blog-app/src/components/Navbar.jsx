@@ -26,7 +26,7 @@ export default function Navbar() {
     return (
         <>
             <header>
-                <h2>Recipe Website</h2>
+                <h2>Recipe Haven</h2>
                 <ul>
                     <li><NavLink to="/">Home</NavLink></li>
                     <li onClick={() => isLogin && setIsOpen(true)}>
